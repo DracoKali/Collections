@@ -1,0 +1,10 @@
+/Users/jodiwillard/Documents/C# /Collections/bin/Debug/netcoreapp2.0/Collections.deps.json
+/Users/jodiwillard/Documents/C# /Collections/bin/Debug/netcoreapp2.0/Collections.runtimeconfig.json
+/Users/jodiwillard/Documents/C# /Collections/bin/Debug/netcoreapp2.0/Collections.runtimeconfig.dev.json
+/Users/jodiwillard/Documents/C# /Collections/bin/Debug/netcoreapp2.0/Collections.dll
+/Users/jodiwillard/Documents/C# /Collections/bin/Debug/netcoreapp2.0/Collections.pdb
+/Users/jodiwillard/Documents/C# /Collections/obj/Debug/netcoreapp2.0/Collections.csproj.CoreCompileInputs.cache
+/Users/jodiwillard/Documents/C# /Collections/obj/Debug/netcoreapp2.0/Collections.AssemblyInfoInputs.cache
+/Users/jodiwillard/Documents/C# /Collections/obj/Debug/netcoreapp2.0/Collections.AssemblyInfo.cs
+/Users/jodiwillard/Documents/C# /Collections/obj/Debug/netcoreapp2.0/Collections.dll
+/Users/jodiwillard/Documents/C# /Collections/obj/Debug/netcoreapp2.0/Collections.pdb
